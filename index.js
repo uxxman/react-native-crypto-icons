@@ -48,6 +48,7 @@ export default class CryptoIcon extends PureComponent<Props, void> {
 const styles = StyleSheet.create({
   icon: {
     fontFamily: 'CryptoIcons',
-    backgroundColor: 'transparent'
+    backgroundColor: 'transparent',
+    paddingBottom: 1
   },
 });
