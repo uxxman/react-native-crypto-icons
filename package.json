@@ -1,0 +1,40 @@
+{
+  "name": "react-native-crypto-icons",
+  "version": "1.0.0",
+  "description": "Crypto Currency Icons for React Native",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "fonts",
+    "crypto",
+    "currency",
+    "crypto-currency",
+    "icon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uxman-sherwani/react-native-crypto-icons.git"
+  },
+  "author": "Muhammad Usman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uxman-sherwani/react-native-crypto-icons/issues"
+  },
+  "homepage": "https://github.com/uxman-sherwani/react-native-crypto-icons#readme",
+  "rnpm": {
+    "assets": [
+      "fonts"
+    ]
+  },
+  "scripts": {
+    "flow": "flow"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "flow-bin": "^0.55.0"
+  }
+}
